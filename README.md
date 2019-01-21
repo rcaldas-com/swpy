@@ -34,7 +34,9 @@ $ cat input.all
 ```
 ### Runing
 With 'model', 'lastv' and 'img' set in .py file:
+
 `$ ./attfirmware.py input.all`
+
 Then it:
 * Find for the selected model.
 * Login with radius.
